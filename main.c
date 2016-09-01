@@ -11,7 +11,7 @@ int main()
      float ope2 = 0;
       float resultado;
 system("color 9f");
-printf(" bienvenido a la calculadora\n\n");
+printf(" bienvenido a la calculadora \n\n");
 system("pause");
 
     while(seguir == 'i')
